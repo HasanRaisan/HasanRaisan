@@ -38,4 +38,9 @@ I'm actively working on one project, and you can find all of them here on my Git
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanRaisan&layout=compact&theme=graywhite)
+
+
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
