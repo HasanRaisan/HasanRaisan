@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👨‍💻 Hasan Rainsan
 
-<!--
-**HasanRaisan/HasanRaisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Back-End Developer**  
+Full-Stack Desktop Developer | Learning Front-End Web  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+- 💻 **Languages**: C++, C#, T-SQL  
+- 🗃️ **Database**: SQL Server  
+- 🔌 **Technologies**: ADO.NET, RESTful API  
+- 🌐 **Web**: HTML, CSS  
+- 📁 **Version Control**: GitHub  
+
+---
+
+## 👨‍💼 About Me
+
+I'm a passionate back-end developer.  
+Currently, I'm enhancing my front-end web development skills to become a more complete developer.  
+
+I'm actively working on one project, and you can find all of them here on my GitHub.
+
+---
+
+## 🎯 Goals
+
+- 💼 Get a job opportunity or a training program in software development.  
+- 🚀 Continue improving my front-end and web development skills.
+
+---
+
+## 📫 Contact
+
+- 🔗 LinkedIn: *Coming Soon*  
+- 📍 GitHub: [https://github.com/HasanRaisan](https://github.com/HasanRaisan)
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
