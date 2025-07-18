@@ -33,8 +33,8 @@ I'm actively working on one project, and you can find all of them here on my Git
 
 ## 📫 Contact
 
-- 🔗 LinkedIn: [https://linkedin.com/HasanRaisan](www.linkedin.com/in/hasan-raisan-949b84241)
-- 📍 GitHub: [https://github.com/HasanRaisan](https://github.com/HasanRaisan)
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hasan-raisan-949b84241)
+- 📍 GitHub: [GitHub Profile](https://github.com/HasanRaisan)
 
 ---
 ## 🚀 Featured Projects
