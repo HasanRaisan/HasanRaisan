@@ -10,7 +10,7 @@ Full-Stack Desktop Developer | Learning Front-End Web
 - 💻 **Languages**: C++, C#, T-SQL  
 - 🗃️ **Database**: SQL Server  
 - 🔌 **Technologies**: ADO.NET, RESTful API  
-- 🌐 **Web**: HTML, CSS  
+- 🌐 **Web**: HTML, CSS, JavaScript
 - 📁 **Version Control**: GitHub  
 
 ---
