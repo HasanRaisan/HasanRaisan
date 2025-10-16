@@ -7,11 +7,11 @@ Full-Stack Desktop Developer | Learning Front-End Web
 
 ## 🛠️ Skills & Tools
 
-- 💻 **Languages**: C++, C#, T-SQL, JavaScript
+- 💻 **Languages**: C++, C#, T-SQL, JavaScript, TypeScript
 - 🗃️ **Database**: SQL Server  
-- 🔌 **Technologies**: ADO.NET, RESTful API, Entity Framework Core
-- 🌐 **Web**: HTML, CSS
-- 📁 **Version Control**: GitHub  
+- 🔌 **Technologies**: ADO.NET, RESTful API, EF Core, ASP.NET Core
+- 🌐 **Web**: HTML, CSS, Bootstarp, React
+- 📁 **Version Control**: GitHub
 
 ---
 
