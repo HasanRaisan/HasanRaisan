@@ -1,7 +1,6 @@
 # 👨‍💻 Hasan Raisan
 
-**Software Developer**  
-Full-Stack Desktop Developer | Learning Front-End Web  
+**Web Developer**  
 
 ---
 
