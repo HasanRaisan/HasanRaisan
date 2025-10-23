@@ -10,6 +10,7 @@
 - 🗃️ **Database**: SQL Server  
 - 🔌 **Technologies**: ADO.NET, .NET Framework, EF Core, ASP.NET Core, RESTful API
 - 🌐 **Web**: HTML, CSS, Bootstrap, React
+-  Windows Service
 - 📁 **Version Control**: GitHub
 
 ---
