@@ -16,8 +16,7 @@
 
 ## 👨‍💼 About Me
 
-I'm a passionate back-end developer.  
-Currently, I'm enhancing my front-end web development skills to become a more complete developer.  
+I'm a passionate Full-Stack developer.  
 
 I'm actively working on one project, and you can find all of them here on my GitHub.
 
