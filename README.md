@@ -6,12 +6,23 @@
 
 ### 🚀 Tech Stack & Core Skills
 
-- **💻 Languages:** C++, C#, T-SQL, JavaScript, TypeScript
-- **💾 Database:** SQL Server
-- **🏗️ Frameworks & ORMs:** ASP.NET Core, .NET Framework, EF Core, ADO.NET
-- **🌐 Web/Frontend:** React, HTML, CSS, Bootstrap
-- **⚙️ Services:** RESTful API, Windows Service
-- **🔗 Version Control:** GitHub
+### ⚙️ Back-end
+* C++, C#
+* ASP.NET Core, .NET Framework
+* EF Core (Entity Framework Core), ADO.NET
+* RESTful API, Windows Service
+
+### 🌐 Front-end
+* React, JavaScript, TypeScript
+* HTML, CSS
+* Bootstrap
+
+### 💾 Database
+* SQL Server
+* T-SQL (Transact-SQL)
+
+### 🔗 Tools & Version Control
+* GitHub
 ---
 
 ## 👨‍💼 About Me
