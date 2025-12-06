@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Tech Stack & Core Skills
+### 🚀 Skills
 
 ### ⚙️ Back-end
 * C++, C#
@@ -25,6 +25,10 @@
 ### 🔗 Tools & Version Control
 * GitHub
 * Postman
+
+### 🌏 Languages 
+* Arabic: Native
+* English: Upper Intermediate 
 ---
 
 ## 👨‍💼 About Me
