@@ -1,6 +1,6 @@
 # 👨‍💻 Hasan Raisan
 
-**Full-Stack Web Developer**  
+**Full-Stack Developer**  
 
 ---
 
@@ -8,8 +8,9 @@
 
 ### ⚙️ Back-end
 * C++, C#
-* ASP.NET Core, .NET Framework
-* EF Core (Entity Framework Core), ADO.NET
+* ASP.NET Core, 
+* Entity Framework Core, ADO.NET
+* .NET Framework, Windows Forms
 * RESTful API, Windows Service
 
 ### 🌐 Front-end
