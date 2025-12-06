@@ -9,8 +9,8 @@
 ### ⚙️ Back-end
 * C++, C#
 * ASP.NET Core, 
-* Entity Framework Core, ADO.NET
-* .NET Framework, Windows Forms
+* Entity Framework Core
+* .NET Framework, Windows Forms, ADO.NET
 * RESTful API, Windows Service
 
 ### 🌐 Front-end
