@@ -8,8 +8,7 @@
 
 ### ⚙️ Back-end
 * C++, C#
-* ASP.NET Core, 
-* Entity Framework Core
+* ASP.NET Core, Entity Framework Core
 * .NET Framework, Windows Forms, ADO.NET
 * RESTful API, Windows Service
 
@@ -35,15 +34,13 @@
 
 I'm a passionate Full-Stack developer.  
 
-I'm actively working on one project, and you can find all of them here on my GitHub.
+I'm actively working on projects, and you can find all of them here on my GitHub.
 
 ---
 
 ## 🎯 Goals
 
 - 💼 Get a job opportunity or a training program in software development.  
-- 🚀 Continue improving my front-end and web development skills.
-
 ---
 
 ## 📫 Contact
@@ -52,11 +49,21 @@ I'm actively working on one project, and you can find all of them here on my Git
 - 📍 GitHub: [GitHub Profile](https://github.com/HasanRaisan)
 
 ---
-## 🚀 Featured Projects
+## 🚀 Projects
 
-- 🏛️ [Clean Architecture - TeacherStudentAPI](https://github.com/HasanRaisan/CleanArchitecture_TeacherStudentAPI)  
-- 🏛️ [Driving Vehicle License Department (DVLD)](https://github.com/HasanRaisan/Driving-Vehicle-License-Department-DVLD-)  
-- 🏦 [Bank System](https://github.com/HasanRaisan/Bank-System)  
+### Featured Projects
+-  [Clean Architecture - TeacherStudentAPI](https://github.com/HasanRaisan/CleanArchitecture_TeacherStudentAPI)  
+-  [Driving Vehicle License Department (DVLD)](https://github.com/HasanRaisan/Driving-Vehicle-License-Department-DVLD-)  
+-  [Bank System](https://github.com/HasanRaisan/Bank-System)
+-  [Student API](https://github.com/HasanRaisan/Student-API)
+
+### Front-End Web Projects
+- [My Website - React](https://github.com/HasanRaisan/Bank-System)
+- [JavaScript Projects](https://github.com/HasanRaisan/Bank-System)
+- [Bondi - HTML-CSS (Bootstrap)](https://github.com/HasanRaisan/Bank-System)
+- [Fen - HTML - CSS](https://github.com/HasanRaisan/Bank-System)
+- [Nova - HTML - CSS](https://github.com/HasanRaisan/Bank-System)
+- [Nova - HTML - CSS](https://github.com/HasanRaisan/Bank-System) 
 
 ---
 
