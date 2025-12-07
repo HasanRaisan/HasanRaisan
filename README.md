@@ -64,6 +64,10 @@ I'm actively working on projects, and you can find all of them here on my GitHub
 - [Fen - HTML - CSS](https://github.com/HasanRaisan/FEN-HTML-CSS) -  - [View Live](https://hasanraisan-fen.vercel.app/)
 - [Nova - HTML - CSS](https://github.com/HasanRaisan/Nova-HTML-CSS) -  - [View Live](https://hasanraisan-nova.vercel.app/)
 
+### Other
+-  [ATM](https://github.com/HasanRaisan/ATM)  
+-  [Windows Services](https://github.com/HasanRaisan/Windows-Services)
+
 ---
 
 ## 📊 GitHub Stats
