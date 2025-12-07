@@ -58,12 +58,11 @@ I'm actively working on projects, and you can find all of them here on my GitHub
 -  [Student API](https://github.com/HasanRaisan/Student-API)
 
 ### Front-End Web Projects
-- [My Website - React](https://github.com/HasanRaisan/Bank-System)
-- [JavaScript Projects](https://github.com/HasanRaisan/Bank-System)
-- [Bondi - HTML-CSS (Bootstrap)](https://github.com/HasanRaisan/Bank-System)
-- [Fen - HTML - CSS](https://github.com/HasanRaisan/Bank-System)
-- [Nova - HTML - CSS](https://github.com/HasanRaisan/Bank-System)
-- [Nova - HTML - CSS](https://github.com/HasanRaisan/Bank-System) 
+- [My Website - React](https://github.com/HasanRaisan/My-Website)  -  -  [View Live](https://hasanraisan.vercel.app)
+- [JavaScript Projects](https://github.com/HasanRaisan/HTML-CSS-JS-Projects) -  -  [View Live]()
+- [Bondi - HTML-CSS (Bootstrap)](https://github.com/HasanRaisan/HTML-CSS-Bootstrap-) -  - [View Live](https://hasanraisan-bondi.vercel.app/)
+- [Fen - HTML - CSS](https://github.com/HasanRaisan/FEN-HTML-CSS) -  - [View Live](https://hasanraisan-fen.vercel.app/)
+- [Nova - HTML - CSS](https://github.com/HasanRaisan/Nova-HTML-CSS) -  - [View Live](https://hasanraisan-nova.vercel.app/)
 
 ---
 
