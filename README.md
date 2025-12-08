@@ -30,18 +30,6 @@
 * English: Upper Intermediate 
 ---
 
-## 👨‍💼 About Me
-
-I'm a Full-Stack developer.  
-I'm actively working on projects, and you can find all of them here on my GitHub.
-
----
-
-## 🎯 Goals
-
-- 💼 Get a job opportunity or a training program in software development.  
----
-
 ## 📫 Contact
 
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hasan-raisan-949b84241)
@@ -57,11 +45,11 @@ I'm actively working on projects, and you can find all of them here on my GitHub
 -  [Student API](https://github.com/HasanRaisan/Student-API)
 
 ### Front-End Web Projects
-- [My Website - React](https://github.com/HasanRaisan/My-Website)  -  -  [View Live](https://hasanraisan.vercel.app)
-- [JavaScript Projects](https://github.com/HasanRaisan/HTML-CSS-JS-Projects) -  -  [View Live]()
-- [Bondi - HTML-CSS (Bootstrap)](https://github.com/HasanRaisan/HTML-CSS-Bootstrap-) -  - [View Live](https://hasanraisan-bondi.vercel.app/)
-- [Fen - HTML - CSS](https://github.com/HasanRaisan/FEN-HTML-CSS) -  - [View Live](https://hasanraisan-fen.vercel.app/)
-- [Nova - HTML - CSS](https://github.com/HasanRaisan/Nova-HTML-CSS) -  - [View Live](https://hasanraisan-nova.vercel.app/)
+- [React: My Website](https://github.com/HasanRaisan/My-Website)  -  -  view live: [hasanraisan.vercel.app](https://hasanraisan.vercel.app)
+- [JavaScript Projects](https://github.com/HasanRaisan/HTML-CSS-JS-Projects) -  -  view live: [hasan-typingtest.vercel.app](https://hasan-typingtest.vercel.app/) - [hasan-guesstheword.vercel.app](https://hasan-guesstheword.vercel.app/) - view live: [hasan-fetchrepos.vercel.app](https://hasan-fetchrepos.vercel.app/)
+- [HTML-CSS (Bootstrap): Bondi](https://github.com/HasanRaisan/HTML-CSS-Bootstrap-) -  - View Live: [hasanraisan-bondi.vercel.app](https://hasanraisan-bondi.vercel.app/)
+- [HTML - CSS: FEN](https://github.com/HasanRaisan/FEN-HTML-CSS) -  - view live: [hasanraisan-fen.vercel.app](https://hasanraisan-fen.vercel.app/)
+- [HTML - CSS: Nova](https://github.com/HasanRaisan/Nova-HTML-CSS) -  - View Live: [hasanraisan-nova.vercel.app](https://hasanraisan-nova.vercel.app/)
 
 ### Other
 -  [ATM](https://github.com/HasanRaisan/ATM)  
