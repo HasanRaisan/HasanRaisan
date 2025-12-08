@@ -32,8 +32,7 @@
 
 ## 👨‍💼 About Me
 
-I'm a passionate Full-Stack developer.  
-
+I'm a Full-Stack developer.  
 I'm actively working on projects, and you can find all of them here on my GitHub.
 
 ---
