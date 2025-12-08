@@ -46,7 +46,7 @@
 
 ### Front-End Web Projects
 - [React: My Website](https://github.com/HasanRaisan/My-Website)  -  -  view live: [hasanraisan.vercel.app](https://hasanraisan.vercel.app)
-- [JavaScript Projects](https://github.com/HasanRaisan/HTML-CSS-JS-Projects) -  -  view live: [hasan-typingtest.vercel.app](https://hasan-typingtest.vercel.app/) - [hasan-guesstheword.vercel.app](https://hasan-guesstheword.vercel.app/) - view live: [hasan-fetchrepos.vercel.app](https://hasan-fetchrepos.vercel.app/)
+- [JavaScript Projects](https://github.com/HasanRaisan/HTML-CSS-JS-Projects) -  -  view live: [hasan-typingtest.vercel.app](https://hasan-typingtest.vercel.app/) - [hasan-guesstheword.vercel.app](https://hasan-guesstheword.vercel.app/) - [hasan-fetchrepos.vercel.app](https://hasan-fetchrepos.vercel.app/)
 - [HTML-CSS (Bootstrap): Bondi](https://github.com/HasanRaisan/HTML-CSS-Bootstrap-) -  - View Live: [hasanraisan-bondi.vercel.app](https://hasanraisan-bondi.vercel.app/)
 - [HTML - CSS: FEN](https://github.com/HasanRaisan/FEN-HTML-CSS) -  - view live: [hasanraisan-fen.vercel.app](https://hasanraisan-fen.vercel.app/)
 - [HTML - CSS: Nova](https://github.com/HasanRaisan/Nova-HTML-CSS) -  - View Live: [hasanraisan-nova.vercel.app](https://hasanraisan-nova.vercel.app/)
