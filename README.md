@@ -30,6 +30,10 @@
 * English: Upper Intermediate 
 ---
 
+## 📘 Courses
+- Completed the full programming roadmap (24 courses) from [Programming Advices](https://programmingadvices.com/p/roadmap)
+---
+
 ## 📫 Contact
 
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hasan-raisan-949b84241)
