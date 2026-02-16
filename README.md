@@ -36,7 +36,7 @@
 
 ## 📫 Contact
 
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hasan-raisan-949b84241)
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hasan-raisan)
 - 📍 GitHub: [GitHub Profile](https://github.com/HasanRaisan)
 
 ---
