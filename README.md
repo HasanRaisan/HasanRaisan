@@ -43,7 +43,7 @@
 ## 🚀 Projects
 
 ### Featured Projects
--  [Clean Architecture - TeacherStudentAPI](https://github.com/HasanRaisan/CleanArchitecture_TeacherStudentAPI)  
+-  [Clean Architecture - Academic Core API](https://github.com/HasanRaisan/CleanArchitecture_TeacherStudentAPI)  
 -  [Driving Vehicle License Department (DVLD)](https://github.com/HasanRaisan/Driving-Vehicle-License-Department-DVLD-)  
 -  [Bank System](https://github.com/HasanRaisan/Bank-System)
 -  [Student API](https://github.com/HasanRaisan/Student-API)
