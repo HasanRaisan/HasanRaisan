@@ -6,28 +6,12 @@
 
 ### 🚀 Skills
 
-### ⚙️ Back-end
-* C++, C#
-* ASP.NET Core, Entity Framework Core
-* .NET Framework, Windows Forms, ADO.NET
-* RESTful API, Windows Service
-
-### 🌐 Front-end
-* React, JavaScript, TypeScript
-* HTML, CSS
-* Bootstrap
-
-### 💾 Database
-* SQL Server
-* T-SQL (Transact-SQL)
-
-### 🔗 Tools & Version Control
-* GitHub
-* Postman
-
-### 🌏 Languages 
-* Arabic: Native
-* English: Upper Intermediate 
+- Bake-End: C#, C++, ASP.NET Core, EF Core, RESTful API, .NET Framework, Windows Forms, ADO.NET, Windows Services
+- Front-End: React.js, HTML, CSS, JS, TypeScript, Bootstrap, Tailwind, TanStack Query 
+- Database: SQL Server, T-SQL 
+- Architecture & Patterns: Clean Architecture, N-Tier Architecture, CQRS, MediatR 
+- Infrastructure & Security: Keycloak, Redis, Hangfire 
+- Tools & Productivity: Git & GitHub, Postman, Excel, Word 
 ---
 
 ## 📘 Courses
