@@ -27,6 +27,7 @@
 ## 🚀 Projects
 
 ### Featured Projects
+-  [School Management](https://github.com/HasanRaisan/School-Management-System-)  
 -  [Clean Architecture - Academic Core API](https://github.com/HasanRaisan/CleanArchitecture_TeacherStudentAPI)  
 -  [Driving Vehicle License Department (DVLD)](https://github.com/HasanRaisan/Driving-Vehicle-License-Department-DVLD-)  
 -  [Bank System](https://github.com/HasanRaisan/Bank-System)
