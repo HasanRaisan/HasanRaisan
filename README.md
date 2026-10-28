@@ -6,7 +6,7 @@
 
 ### 🚀 Skills
 
-- Bake-End: C#, C++, ASP.NET Core, EF Core, RESTful API, .NET Framework, Windows Forms, ADO.NET, Windows Services
+- Back-End: C#, C++, ASP.NET Core, EF Core, RESTful API, .NET Framework, Windows Forms, ADO.NET, Windows Services
 - Front-End: React.js, HTML, CSS, JS, TypeScript, Bootstrap, Tailwind, TanStack Query 
 - Database: SQL Server, T-SQL 
 - Architecture & Patterns: Clean Architecture, N-Tier Architecture, CQRS, MediatR 
@@ -28,8 +28,8 @@
 
 ### Featured Projects
 -  [School Management](https://github.com/HasanRaisan/School-Management-System-)  
--  [Clean Architecture - Academic Core API](https://github.com/HasanRaisan/CleanArchitecture_TeacherStudentAPI)  
--  [Driving Vehicle License Department (DVLD)](https://github.com/HasanRaisan/Driving-Vehicle-License-Department-DVLD-)  
+-  [Driving Vehicle License Department (DVLD)](https://github.com/HasanRaisan/Driving-Vehicle-License-Department-DVLD-)
+-  [Academic Core API](https://github.com/HasanRaisan/CleanArchitecture_TeacherStudentAPI)  
 -  [Bank System](https://github.com/HasanRaisan/Bank-System)
 -  [Student API](https://github.com/HasanRaisan/Student-API)
 
