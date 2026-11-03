@@ -15,7 +15,7 @@
 ---
 
 ## 📘 Courses
-- Completed the full programming roadmap (24 courses) from [Programming Advices](https://programmingadvices.com/p/roadmap)
+- Completed 28 courses from [Programming Advices](https://programmingadvices.com/p/roadmap)
 ---
 
 ## 📫 Contact
